@@ -1,5 +1,5 @@
  <img src="https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img/https://qrangers.com/wp-content/uploads/2021/09/Banner-Introduction-to-3D-Animation.png" width="1000" height="300" alt="coding">
-<h1 align="center">Hi 👋, I'm Dominique</h1>
+<h1 align="center">Hi 👋🏿, I'm Dominique</h1>
 <h3 align="center">👋🏿Proven expertise in using HTML, CSS, PHP, PYTHON, and JS.</h3>
 <img algin="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPOSeZamtwCPGnKaNoS98QqlESjfGXF0hYqQ&usqp=CAU"
 
