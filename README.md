@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **HTML, CSS, JS**
 
-- 📫 How to reach me **dominique.moore@ymail.com**
+- 📫 How to reach me <a href="https://docs.google.com/document/d/1ZGzTGifYAnDi9YtWspCY5MVQyNzXBhsByP0l8NZ6lOQ/edit">Resume</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
